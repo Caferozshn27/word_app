@@ -31,7 +31,7 @@ Follow these steps to run the project on your local machine:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Caferozsahin27/word-app.git
+   git clone https://github.com/Caferozsahin27/word_app.git
    ```
 
 2. **Install dependencies:**
