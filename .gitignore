@@ -1,0 +1,81 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Visual Studio Code related
+.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins-dependencies
+.metadata
+.packages
+.pub-cache/
+.pub/
+/build/
+/coverage/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# Android related
+**/android/local.properties
+**/android/**/generated/
+**/android/gen/
+**/android/bin/
+**/android/captures/
+**/android/app/google-services.json
+**/android/app/src/main/res/values/google-services.xml
+**/android/app/src/main/res/values/secrets.xml
+**/android/key.properties
+**/*.keystore
+**/*.jks
+
+# iOS related
+**/ios/Runner/GeneratedPluginRegistrant.*
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/flutter_export_environment.sh
+**/ios/Flutter/App.framework
+**/ios/Flutter/App.podspec
+**/ios/Flutter/App.framework.zip
+**/ios/Pods/
+**/ios/.res/
+**/ios/ServiceDefinitions.json
+**/ios/GoogleService-Info.plist
+**/ios/Runner/Assets.xcassets/AppIcon.appiconset/
+**/ios/Runner/Assets.xcassets/LaunchImage.imageset/
+
+# Isar generated files (optional, but usually included in version control)
+# *.g.dart
+
+# Mac specific
+.LSOverride
+Icon?
+.Trashes
+
